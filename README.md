@@ -43,9 +43,10 @@
     <div style="text-align: left;">  </div> 
     </div>
    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=vattis&bg_color=180,000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vattis&layout=compact&bg_color=180,000000&title_color=ffffff&text_color=ffffff"
-           /> <br/>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+         <a href="https://github.com/vattis"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vattis&bg_color=180,000000&title_color=ffffff&text_color=ffffff" /></a>
+         <a href="https://github.com/vattis"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vattis&layout=compact&bg_color=180,000000&title_color=ffffff&text_color=ffffff" /></a>
+         <br/>
          <a href="https://solved.ac/superhsk00"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=superhsk00" /></a>
            </div> 
     </div>
