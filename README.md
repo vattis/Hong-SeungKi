@@ -39,5 +39,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=vatti&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatti&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+           /> <br/>
+         <a href="https://solved.ac/superhsk00"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=superhsk00" /></a>
+           </div> 
     </div>
